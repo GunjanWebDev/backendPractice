@@ -1,0 +1,19 @@
+{
+  "name": "backendpractice",
+  "version": "1.0.0",
+  "description": "testing backend with express and nodejs",
+  "type": "module",
+  "main": "./SRC/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./SRC/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "datenv": "^0.0.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.4"
+  }
+}
